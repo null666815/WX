@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/src/**",
+        "C:/Program Files/Microsoft Visual Studio/**/include",
+        "C:/Program Files (x86)/Microsoft Visual Studio/**/include",
+        "C:/mingw64/include",
+        "C:/mingw64/lib/gcc/x86_64-w64-mingw32/**/include/c++/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "${default}",
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-msvc-x64",
+      "configurationProvider": "ms-vscode.cmake-tools"
+    }
+  ],
+  "version": 4
+}
