@@ -1,7 +1,7 @@
 # 📱 即时通信项目 - 现代化架构版本
 
 <div align="center">
-  <img src="https://www.acwing.com/user/profile/index/" alt="即时通信Logo" width="120"/>
+  <img src="https://cdn.acwing.com/media/user/profile/photo/489144_lg_fa02d42392.jpg" alt="即时通信Logo" width="120"/>
   
   <div style="margin: 1rem 0;">
     <img src="https://img.shields.io/badge/Language-C%2B%2B17-blue.svg" alt="C++17"/>
@@ -199,4 +199,5 @@ tcpSocket.sendPipeMessage(request);
 
 <div align="center">
   <p>💡 如有问题或建议，欢迎提交Issue或联系开发者！</p>
+
 </div>
