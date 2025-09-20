@@ -1,7 +1,7 @@
 # 📱 即时通信项目 - 现代化架构版本
 
 <div align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/wechat.png" alt="即时通信Logo" width="120"/>
+  <img src="https://www.acwing.com/user/profile/index/" alt="即时通信Logo" width="120"/>
   
   <div style="margin: 1rem 0;">
     <img src="https://img.shields.io/badge/Language-C%2B%2B17-blue.svg" alt="C++17"/>
